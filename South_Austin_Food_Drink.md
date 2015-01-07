@@ -1,4 +1,4 @@
-### Food and Drink Recommendations near TIY Austin / South Austin
+# Food and Drink Recommendations near TIY Austin / South Austin
 * [Food recommendations nearby (non-taco)](https://jauntful.com/Samkap/gJnTN5dd5e)
 * [Taco recommendations nearby](https://jauntful.com/Samkap/lkvM7hd_cl)
 * [Coffee recommendations nearby](https://jauntful.com/Samkap/g1aqLBpuDx)
