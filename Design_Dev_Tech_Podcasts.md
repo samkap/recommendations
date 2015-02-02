@@ -8,6 +8,7 @@
 * [ShopTalkShow](http://shoptalkshow.com/)
 * [On the grid](http://5by5.tv/onthegrid)
 * [Design Matters with Debbie Millman](http://designobserver.com/topic/designmatters/1039)
+* [Website StyleGuides Podcast](http://styleguides.io/podcast/)
 * [NBSP](http://goodstuff.fm/nbsp) - retired
 * [ATX Web Show](http://atxwebshow.com/) - retired
 
