@@ -5,6 +5,3 @@
 * [Beers, bars, and margs recommendations nearby](https://jauntful.com/Samkap/ey7lAlFO5g)
 * Restaurant Delivery services: [Favor](http://www.favordelivery.com), [PostMates](https://postmates.com/austin), or [BiteSquad](http://wwww.bitesquad.com)
 * Grocery Delivery: [Instacart](http://www.instacart.com)
-
-
-meow meow meow
