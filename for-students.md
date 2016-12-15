@@ -1,3 +1,5 @@
+# Recommendations for Junior Devs and Designers
+
 ### Podcasts
 * [ShopTalkShow](http://shoptalkshow.com/)
 * [The Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)
