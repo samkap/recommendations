@@ -14,4 +14,4 @@ Anything on [A Book Apart](http://www.abookapart.com) but specifically for all j
 
 ### Sites
 * [CodePen](http://www.codepen.io)
-* [CSS-Tricks}(http://www.css-tricks.com)
+* [CSS-Tricks](http://www.css-tricks.com)
