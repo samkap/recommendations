@@ -7,6 +7,7 @@ Anything on [A Book Apart](http://www.abookapart.com) is amazing and I would hig
 * [Designing for emotion](https://abookapart.com/products/designing-for-emotion) by our former AB member, Aarron Walter.
 * [You're my favorite client](https://abookapart.com/products/youre-my-favorite-client), by Mike Monteiro.
 * [Just Enough Research](https://abookapart.com/products/just-enough-research), by Erika Hall.
+* [Designing Brand Identity](https://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206), by Alina Wheeler
 
 ### Public Speaking
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking), by Lara Hogan
@@ -14,12 +15,30 @@ Anything on [A Book Apart](http://www.abookapart.com) is amazing and I would hig
 ## Not Books
 
 ### #TheseAreAFewOfMyFavoriteThings
-* [Pixel Perfect Precision](), best guide for UI Design theory
+* [Pixel Perfect Precision](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/), best guide for UI Design theory
 
 ### Podcasts
+#### Web Design and Dev
+* [ATX Web Show](http://atxwebshow.com/) - retired
+* [The Big Web Show](http://5by5.tv/bigwebshow)
+* [The Change Log](https://thechangelog.com/)
+* [Design Details](http://www.designdetails.fm/)
+* [The East Wing](http://goodstuff.fm/theeastwing)
+* [NBSP](http://goodstuff.fm/nbsp)
+* [On the grid](http://5by5.tv/onthegrid)
+* [Path to Performance](http://pathtoperf.com/)
 * [ShopTalkShow](http://shoptalkshow.com/)
+* [The Start](http://www.thestart.fm/)
+* [StyleGuides Podcast](http://styleguides.io/podcast/)
 * [The Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)
+* [The Web Ahead](http://5by5.tv/webahead)
+
+#### Non-web Design
 * [Design Matters with Debbie Millman](http://www.debbiemillman.com/designmatters/)
+
+#### General cool topics (The More You Know!)
+* [99% Invisible](http://99percentinvisible.org/)
+* [Stuff you should know](http://www.stuffyoushouldknow.com/podcasts/)
 
 ### Newsletters
 * Val Head's [UI Animation](http://valhead.com/newsletter/)
@@ -58,7 +77,14 @@ Anything on [A Book Apart](http://www.abookapart.com) is amazing and I would hig
 
 
 #### Mobile
-*
+* coming soon
+
+### Design Process
+* [Element Collages](http://danielmall.com/articles/rif-element-collages/)
+* [StyleTiles](http://styletil.es)
+* [Brand Books of the World](http://www.logodesignlove.com/brand-identity-style-guides)
+* [One-page love](https://onepagelove.com/)
+* [Swarm’s process post](https://medium.com/@mrdavenport/swarm-branding-and-visual-design-afb11c949526)
 
 
 ### Other Inspiration
@@ -78,5 +104,5 @@ Anything on [A Book Apart](http://www.abookapart.com) is amazing and I would hig
 * [StackOverFlow](http://www.stackoverflow.com)
 
 ## Practice
-* [Javascript30]()
+* [Javascript30](https://javascript30.com/)
 * [Daily CSS Image](http://dailycssimages.com/)
