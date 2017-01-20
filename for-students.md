@@ -60,6 +60,17 @@ Anything on [A Book Apart](http://www.abookapart.com) is amazing and I would hig
 * [Jeffrey Zeldman on public speaking](http://www.zeldman.com/2014/02/01/the-page-the-stage/)
 * [Sophie Shepherd on public speaking](http://sophieshepherd.com/2013/07/public-speaking.html)
 
+## Meet-ups in Austin
+* https://www.meetup.com/fresh2design/  
+* https://www.meetup.com/UX-for-the-People/  
+* https://www.meetup.com/Austin-Web-Design/  
+* https://www.meetup.com/javascript-austin/  
+* https://www.meetup.com/Learn-to-Code-Austin/  
+* https://www.meetup.com/Girl-Develop-It-Austin/  (They do awesome workshops)
+* https://www.meetup.com/Built-In-Austin/  
+* https://www.meetup.com/bleeding-edge-web/
+* http://www.cafebedouins.com/
+
 ### Writing
 *   [Dan Mall on getting the work you want](http://danielmall.com/articles/how-to-get-the-work-you-want/)
 *   [Adaptive Path on Hemingway and writing](http://www.adaptivepath.com/ideas/writing-for-designers-be-like-papa/)
